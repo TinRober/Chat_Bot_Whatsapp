@@ -31,7 +31,7 @@ JavaScript (ES6)
 
 ⚙️ Instalação e Configuração
 1️⃣ Clonar o repositório
-git clone https://github.com/TinRober/Chat-Bot-Whatsapp
+git clone https://github.com/TinRober/Chat_Bot_Whatsapp
 cd seu-repositorio
 
 2️⃣ Instalar dependências
